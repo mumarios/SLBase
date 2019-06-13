@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="200" id="KGk-i7-Jjw" customClass="LeftMenuInfoTableViewCell" customModule="Esaad" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="319" height="206"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="319" height="205.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EWL-oT-bop">
+                        <rect key="frame" x="0.0" y="8" width="319" height="1"/>
+                        <color key="backgroundColor" red="0.031372549019607843" green="0.40392156862745099" blue="0.29019607843137252" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="8rO-S6-G7D"/>
+                        </constraints>
+                    </view>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="callesaad" translatesAutoresizingMaskIntoConstraints="NO" id="ax2-DJ-CIf">
+                        <rect key="frame" x="16" y="39" width="41" height="31"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sps" translatesAutoresizingMaskIntoConstraints="NO" id="c5g-S4-O00">
+                        <rect key="frame" x="77" y="38" width="33" height="33"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sidemenu_companies" translatesAutoresizingMaskIntoConstraints="NO" id="H1Y-l6-sy8" userLabel="companies">
+                        <rect key="frame" x="20" y="82" width="33" height="32"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PPB-g8-Za8">
+                        <rect key="frame" x="77" y="87.5" width="8" height="21"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sidemenu_deals" translatesAutoresizingMaskIntoConstraints="NO" id="Hmn-wz-80C" userLabel="deals">
+                        <rect key="frame" x="26" y="126" width="21" height="28"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pO3-8a-0vi">
+                        <rect key="frame" x="77" y="129.5" width="8" height="21"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sidemenu_esaad" translatesAutoresizingMaskIntoConstraints="NO" id="uhi-Pg-BrQ" userLabel="logo">
+                        <rect key="frame" x="16.5" y="166" width="40" height="33"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gKs-F2-xYf">
+                        <rect key="frame" x="77" y="176" width="5.5" height="13.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="c5g-S4-O00" firstAttribute="leading" secondItem="ax2-DJ-CIf" secondAttribute="trailing" constant="20" id="24D-Og-zfh"/>
+                    <constraint firstItem="PPB-g8-Za8" firstAttribute="centerY" secondItem="H1Y-l6-sy8" secondAttribute="centerY" id="27c-TJ-4dT"/>
+                    <constraint firstAttribute="trailing" secondItem="EWL-oT-bop" secondAttribute="trailing" id="4j6-tk-K3m"/>
+                    <constraint firstItem="Hmn-wz-80C" firstAttribute="centerX" secondItem="H1Y-l6-sy8" secondAttribute="centerX" id="97p-mo-aSq"/>
+                    <constraint firstItem="pO3-8a-0vi" firstAttribute="leading" secondItem="c5g-S4-O00" secondAttribute="leading" id="AnI-8a-rDn"/>
+                    <constraint firstItem="H1Y-l6-sy8" firstAttribute="top" secondItem="ax2-DJ-CIf" secondAttribute="bottom" constant="12" id="BiO-rd-UGt"/>
+                    <constraint firstItem="uhi-Pg-BrQ" firstAttribute="top" secondItem="Hmn-wz-80C" secondAttribute="bottom" constant="12" id="HS2-TY-u9y"/>
+                    <constraint firstItem="gKs-F2-xYf" firstAttribute="centerY" secondItem="uhi-Pg-BrQ" secondAttribute="centerY" id="Jha-4d-fT0"/>
+                    <constraint firstItem="uhi-Pg-BrQ" firstAttribute="centerX" secondItem="Hmn-wz-80C" secondAttribute="centerX" id="Nqa-cA-qn3"/>
+                    <constraint firstItem="H1Y-l6-sy8" firstAttribute="centerX" secondItem="ax2-DJ-CIf" secondAttribute="centerX" id="SWD-xh-l4x"/>
+                    <constraint firstItem="c5g-S4-O00" firstAttribute="centerY" secondItem="ax2-DJ-CIf" secondAttribute="centerY" id="XCa-Kf-eBq"/>
+                    <constraint firstItem="ax2-DJ-CIf" firstAttribute="top" secondItem="EWL-oT-bop" secondAttribute="bottom" constant="30" id="b4V-0U-hm3"/>
+                    <constraint firstItem="EWL-oT-bop" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="ceA-4Q-NQv"/>
+                    <constraint firstItem="EWL-oT-bop" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="cg2-Ib-C7L"/>
+                    <constraint firstItem="ax2-DJ-CIf" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="cyZ-YH-osY"/>
+                    <constraint firstItem="pO3-8a-0vi" firstAttribute="centerY" secondItem="Hmn-wz-80C" secondAttribute="centerY" id="hD3-IP-F7z"/>
+                    <constraint firstItem="Hmn-wz-80C" firstAttribute="top" secondItem="H1Y-l6-sy8" secondAttribute="bottom" constant="12" id="hHO-21-3qE"/>
+                    <constraint firstItem="gKs-F2-xYf" firstAttribute="leading" secondItem="c5g-S4-O00" secondAttribute="leading" id="t0b-gK-m4t"/>
+                    <constraint firstItem="PPB-g8-Za8" firstAttribute="leading" secondItem="c5g-S4-O00" secondAttribute="leading" id="z9Q-SF-qQy"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="companiesLabel" destination="PPB-g8-Za8" id="IaB-rY-9EB"/>
+                <outlet property="copyrightsLabel" destination="gKs-F2-xYf" id="oar-eX-LuH"/>
+                <outlet property="dealsLabel" destination="pO3-8a-0vi" id="IWj-aL-2NI"/>
+            </connections>
+            <point key="canvasLocation" x="128.80000000000001" y="226.6866566716642"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="callesaad" width="41" height="31"/>
+        <image name="sidemenu_companies" width="33" height="32"/>
+        <image name="sidemenu_deals" width="21" height="28"/>
+        <image name="sidemenu_esaad" width="40" height="33"/>
+        <image name="sps" width="33" height="33"/>
+    </resources>
+</document>

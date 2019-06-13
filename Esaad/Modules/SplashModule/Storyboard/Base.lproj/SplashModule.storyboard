@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="XjF-XU-lK3">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Dubai-Bold.otf">
+            <string>Dubai-Bold</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--SplashVC-->
+        <scene sceneID="XEh-AB-7Pv">
+            <objects>
+                <viewController storyboardIdentifier="splashViewController" id="XjF-XU-lK3" customClass="SplashVC" customModule="Esaad" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8pe-v4-VFC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="AppBackground" translatesAutoresizingMaskIntoConstraints="NO" id="FPG-yD-q2Q">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="LDI-6q-po1">
+                                <rect key="frame" x="179.5" y="297.5" width="16" height="92"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eOl-EH-8Xr">
+                                        <rect key="frame" x="0.0" y="0.0" width="16" height="22"/>
+                                        <state key="normal" image="Btn_arabic"/>
+                                        <state key="selected" image="Btn_arabic Selected"/>
+                                        <connections>
+                                            <action selector="actionChangeLanguage:" destination="XjF-XU-lK3" eventType="touchUpInside" id="wIC-qU-8Pr"/>
+                                        </connections>
+                                    </button>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LangDivider" translatesAutoresizingMaskIntoConstraints="NO" id="vqb-Ud-Xan">
+                                        <rect key="frame" x="0.0" y="38" width="16" height="16"/>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JJH-by-YCR">
+                                        <rect key="frame" x="0.0" y="70" width="16" height="22"/>
+                                        <state key="normal" image="Btn_english"/>
+                                        <state key="selected" image="Btn_english Selected"/>
+                                        <connections>
+                                            <action selector="actionChangeLanguage:" destination="XjF-XU-lK3" eventType="touchUpInside" id="t2T-96-hH6"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dxP-Vy-UIz">
+                                <rect key="frame" x="179.5" y="635" width="16" height="16"/>
+                                <fontDescription key="fontDescription" name="Dubai-Bold" family="Dubai" pointSize="13"/>
+                                <state key="normal" image="walkthroughNext"/>
+                                <connections>
+                                    <action selector="actionSelectLanguage:" destination="XjF-XU-lK3" eventType="touchUpInside" id="Kgy-BU-bQ9"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="LDI-6q-po1" firstAttribute="centerY" secondItem="gnH-Cb-8cT" secondAttribute="centerY" id="1nb-rw-l59"/>
+                            <constraint firstAttribute="bottom" secondItem="FPG-yD-q2Q" secondAttribute="bottom" id="4zu-KY-hu8"/>
+                            <constraint firstItem="LDI-6q-po1" firstAttribute="centerX" secondItem="gnH-Cb-8cT" secondAttribute="centerX" id="587-JU-Iou"/>
+                            <constraint firstItem="dxP-Vy-UIz" firstAttribute="centerX" secondItem="gnH-Cb-8cT" secondAttribute="centerX" id="OLF-me-KAC"/>
+                            <constraint firstItem="gnH-Cb-8cT" firstAttribute="bottom" secondItem="dxP-Vy-UIz" secondAttribute="bottom" constant="16" id="Tze-FW-wvd"/>
+                            <constraint firstItem="FPG-yD-q2Q" firstAttribute="leading" secondItem="8pe-v4-VFC" secondAttribute="leading" id="a3o-aU-BMg"/>
+                            <constraint firstItem="FPG-yD-q2Q" firstAttribute="top" secondItem="8pe-v4-VFC" secondAttribute="top" id="aGd-K8-nGw"/>
+                            <constraint firstItem="gnH-Cb-8cT" firstAttribute="trailing" secondItem="FPG-yD-q2Q" secondAttribute="trailing" id="lLT-Lc-wfo"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="gnH-Cb-8cT"/>
+                    </view>
+                    <connections>
+                        <outlet property="buttonArabicSelected" destination="eOl-EH-8Xr" id="wYU-3f-005"/>
+                        <outlet property="buttonEnglishSelected" destination="JJH-by-YCR" id="qxd-yl-Cuj"/>
+                        <outlet property="imageViewSplash" destination="FPG-yD-q2Q" id="Eh0-Zf-yx2"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kBM-no-09x" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="120.8" y="17.541229385307346"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="AppBackground" width="375" height="812"/>
+        <image name="Btn_arabic" width="67" height="19"/>
+        <image name="Btn_arabic Selected" width="67" height="19"/>
+        <image name="Btn_english" width="85" height="19"/>
+        <image name="Btn_english Selected" width="85" height="19"/>
+        <image name="LangDivider" width="239" height="1"/>
+        <image name="walkthroughNext" width="57" height="57"/>
+    </resources>
+</document>

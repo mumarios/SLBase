@@ -1,0 +1,490 @@
+/* 
+  Localizable.strings
+  Esaad
+
+  Created by Faraz Haider on 28/08/2018.
+  Copyright © 2018 Faraz Haider. All rights reserved.
+*/
+"TextToLocalize" = "itsLocalization";
+"Login" = "Login";
+"SELECT" = "SELECT";
+"WalkthroughNext" = "Next";
+"WalkthroughFinish" = "Finish";
+"Previous" = "Previous";
+"Home" = "Home";
+"Favorite Deals" = "Favourite Deals";
+"About" = "About";
+"Profile" = "Profile";
+
+/*RegisterOption*/
+"Register As Company" = "Register As Company";
+"Register As User" = "Register";
+"Continue As Guest" = "Continue As Guest";
+"Already have an account? Login" = "Already have an account? Login";
+"passwordPolicyError" = "Password should be \n \n* minimum 8 characters length. \n* at least one upper case letter (A – Z). \n* at least one lower case letter(a-z).\n* at least one digit (0 – 9). \n* at least one special Characters of @_-.";
+"no categories found" = "No Categories found";
+"no branches found" = "No Branches found";
+"no departments found" = "No Departments found";
+
+/*Login*/
+"UserName" = "UserName";
+"Empty Email"= "Email is Required";
+"Password" = "Password";
+"Forgot Password?" = "Forgot Password?";
+"LOGIN" = "LOGIN";
+"Dont you have account? Register" = "Dont you have account? Register";
+"Empty Password" = "Password is Required";
+"First Name" = "First Name";
+"Arabic First Name" = "Arabic First Name";
+"Last Name" = "Last Name";
+"Arabic Last Name" = "Arabic Last Name";
+"Mobile Number" = "Mobile Number";
+"Email" = "Email";
+"Confirm New Password" = "Confirm New Password";
+"Emp Id" = "Employee ID";
+"Department" = "Department";
+"REGISTER" = "REGISTER";
+"Select profile image" = "Select profile image";
+"Employee" = "Employee";
+"Company Retail" = "Company Retail User";
+"login.invalidEmail" = "Email is not valid";
+"Select Department" = "Select Department";
+"Select Company" = "Select Company";
+
+/*Forgot*/
+"RESET" = "RESET";
+
+/*WalkThrough*/
+"New Deals everyday" = "New Deals everyday";
+"NEXT" = "NEXT";
+"Skip" = "Skip";
+"Done" = "Done";
+"Look into Categories" = "Look into Categories";
+
+/*Home*/
+"Categories" = "Categories";
+"New Deals" = "New Deals";
+"View All" = "View All";
+"Featured Deals" = "Featured Deals";
+"Start Date" = "Start Date";
+"End Date" = "End Date";
+"City" = "City";
+"Call Now" = "Call";
+"Phone" = "Phone";
+
+/*SideBar*/
+"Inquiries" = "Inquiries";
+"Partner Facilities" = "Partner Facilities";
+"Setting" = "Setting";
+"Logout" = "Logout";
+"© Esaad 2018. All Rights Reserved" = "© Esaad 2019. All Rights Reserved";
+"Alert" = "Alert";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Yes" = "Yes";
+"No" = "No";
+"guestLogoutText" = "Sign in / Sign up";
+
+/*SubCategory*/
+"ListView" = "ListView";
+"MapView" = "MapView";
+"Filter" = "Filter";
+"Apply" = "Apply";
+"Select Discount" = "Select Discount";
+
+"No Deals Found" = "No Deals Found";
+"All Deals" = "All Deals";
+
+/*Filter*/
+"Search" = "Search";
+"Apply Filters" = "Apply Filters";
+"Discount Range" = "Discount Range";
+
+/*Detail*/
+"Overview" = "Overview";
+"Location Map" = "Location Map";
+"User Reviews" = "User Reviews";
+"Rate this Deal" = "Rate this Deal";
+"Comment" = "Comment";
+
+/*Profile*/
+"Name" = "Name";
+"Location" = "Location";
+"Phone Number" = "Phone Number";
+"Employee ID" = "Employee ID";
+"Edit" = "Edit";
+"Set Location" = "Set Location";
+"Ok" = "Ok";
+"Profile" = "Profile";
+"Profile Updated Successfully" = "Profile Updated Successfully";
+"Company" = "Company";
+"Branch" = "Branch";
+"Employee barcode" = "Employee Barcode";
+"Employee barcode is required" = "Employee barcode is required";
+
+/*FeedBack*/
+
+/*Partners*/
+"Silver Partner" = "Silver Partner";
+"Assigned to companies that offer discount from" = "Assigned to companies that offer discount from";
+"Gold Partner" = "Gold Partner";
+
+/*Barcode*/
+"barcodeTitle" = "Scan user barcode";
+"barcodeFooterDetailsMessage" = "Scan the barcode behind your ESAAD Card";
+"barcodeProcessingText" = "Validating";
+"barcodeInvalidErrorText" = "Invalid card scanned, please scan again";
+
+/*Review Registration*/
+"confirmBtn" = "Confirm";
+"reviewRegistration.title" = "REVIEW DETAILS";
+
+/*Guest*/
+"guestTitleError" = "Please login to manage";
+
+/*Contact Us*/
+"ContactUs.title" = "Contact Us";
+"ContactUs.phone.title" = "Phone";
+"ContactUs.fax.title" = "Fax";
+"ContactUs.email.title" = "Email";
+"ContactUs.poBox.title" = "PO Box";
+"ContactUs.callCenter.title" = "Call Center";
+"ContactUs.address.title" = "Address";
+
+// Terms and conditions
+"termsAndConditions" = "Terms and Conditions";
+
+// Privacy policy
+"PrivacyAndPolicy" = "Privacy Policy";
+
+"No Data Available" = "No Data Available";
+
+
+// No data msg
+"defaultEmptyTitle" = "No Deals Yet";
+"defaultEmptyMsg" = "Please select any other category.";
+
+"favEmptyTitle" = "No Favourite Deal Yet";
+"favEmptyMsg" = "Click on Heart Icon on any card and you will find them here next time you visit this page";
+
+"filterEmptyTitle" = "No Deal Matches The Criteria";
+"filterEmptyMsg" = "Currently no deal mathces your criteria, Please change the filters and try again.";
+
+
+"Working Hours" = "Working Hours";
+"After working Hours" = "After working Hours";
+"From;" = "From; ";
+"Till;" = "Till; ";
+
+"BUTTON_CLOSE"  = "CLOSE";
+"Name is Required" = "Name is Required";
+"Subject is Required" = "Subject is Required";
+"Message is Required" = "Message is Required";
+"must not be empty" = " must not be empty";
+"Our partners from government agencies" = "Our partners from government agencies";
+"Password Send Successfully" = "Email sent successfully";
+"Branches" = "Branches";
+
+// Registration screen validations
+"Please" = "Please ";
+"Please Enter" = "Please Enter ";
+"Invalid Password" = "Invalid Password";
+"Register Successfully" = "Register Successfully";
+"Preferred Language; " = "Preferred Language; ";
+"Preferred Language" = "Preferred Language";
+
+// Inquiry validation msgs
+"Email is not valid" = "Email is not valid";
+"Email is Required" = "Email is Required";
+
+
+
+
+
+// New Localization. Need to remove old
+
+// SIDEMENU
+
+"sidemenu.dashboard"            = "Dashboard";
+"sidemenu.favDeals"             = "Favourite Deals";
+"sidemenu.partnerFacility"      = "Partner Facilities";
+"sidemenu.inquiry"              = "Inquiries";
+"sidemenu.quickLinks"           = "Quick Links";
+"sidemenu.news"                 = "News";
+"sidemenu.settings"             = "Settings";
+"sidemenu.loginRegister"        = "Sign in / Sign up";
+"sidemenu.logout"               = "Logout";
+"sidemenu.guest"                = "Guest";
+"sidemenu.employee"             = "Employee";
+"sidemenu.retail"               = "Retailer";
+"sidemenu.logout.msg"           = "Are you sure you want to logout?";
+"sidemenu.logout.cancel"        = "Cancel";
+"sidemenu.logout.confirm"       = "Confirm";
+"sidemenu.copyrightLabel"       = "© Esaad 2019. \nAll Rights Reserved.";
+"sidemenu.totalCompanies"       = "Total Companies ";
+"sidemenu.totalDeals"           = "Total Deals ";
+
+// BOTTOM BAR
+
+"bottomBar.home"                = "Home";
+"bottomBar.categories"          = "Categories";
+"bottomBar.deals"               = "Deals";
+"bottomBar.nearby"              = "Near By";
+"bottomBar.search"              = "Search";
+"bottomBar.dashboard"           = "Dashboard";
+"bottomBar.profile"             = "Profile";
+
+// QUICK LINKS
+
+"QuickLinks.title"              = "Quick Links";
+"QuickLinks.aboutUs"            = "About Us";
+"QuickLinks.contact"            = "Contact Us";
+"QuickLinks.privacyPolicy"      = "Privacy Policy";
+"QuickLinks.terms"              = "Terms & Conditions";
+"QuickLinks.userGuide"          = "User Guide";
+
+
+// DEALS
+
+"deals.allDeals.title"          = "All Deals";
+"deals.newDeals.title"          = "New Deals";
+"deals.featuredDeals.title"     = "Featured Deals";
+"deals.favDeals.title"          = "Favourite Deals";
+"deals.retailerDeals.title"     = "Deals";
+"deals.filterDeals.title"       = "Search Results";
+
+// Retailer Dashboard
+"retailerDashboard.title"               = "Retailer Dashboard";
+"retailerDashboard.subTitle"            = "Deals Sold";
+"retailerDashboard.firstBoxHeading"     = "Total Deals Sold";
+"retailerDashboard.secondBoxHeading"    = "Total Sales";
+
+// Employee Dashboard
+"employeeDashboard.title"               = "Employee Dashboard";
+"dashboard.Tab.today"                   = "Today";
+"dashboard.Tab.yesterday"               = "Yesterday";
+"dashboard.Tab.lastWeek"                = "Last Week";
+"dashboard.Tab.all"                     = "All";
+"employeeDashboard.subTitle"            = "Deals Availed";
+"employeeDashboard.firstBoxHeading"     = "Total Deals Availed";
+"employeeDashboard.secondBoxHeading"    = "Total Saved";
+"dashboard.dealExpired" = "The deal has expired";
+
+// News
+
+"news.title"                    = "News";
+
+// News Filter
+
+"newsFilter.title"              = "News Filter";
+"newsFilter.startDate"          = "Start date";
+"newsFilter.endDate"            = "End Date";
+"newsFilter.apply"              = "APPLY";
+"newsFilter.selectStartDate"    = "Select Start Date";
+"newsFilter.selectEndDate"      = "Select End Date";
+"done"                          = "Done";
+
+// News Details
+"newsDetail.shareNews"          = "Share News";
+
+// No Internet
+
+"NoInternet.heading" = "Unable to connect to Server";
+"NoInternet.subHeading" = "Please check your internet connection";
+"refreshBtn.title" = "REFRESH";
+
+// MISC
+
+"share.fb"                      = "Facebook";
+"share.insta"                   = "Instagram";
+"share.tw"                      = "Twitter";
+"cancel"                        = "Cancel";
+
+// SingIn/SingUp
+"loginView.SignIn"              = "Sign In";
+"loginView.Email"               = "Email";
+"loginView.Password"            = "Password";
+"loginView.ForgotPassword"      = "FORGOT PASSWORD?";
+"loginView.Btn"                 = "LOGIN";
+"loginView.skip"                = "SKIP";
+"loginView.SignUp"              = "Sign Up";
+"loginView.RegisgerAs"          = "Register As";
+"loginView.Employee"            = "Employee";
+"loginView.Retailer"            = "Retailer";
+"loignView.invalidUser"         = "Invalid User";
+
+// Forgot password
+
+"fPwd.title"                    = "Forgot Password";
+"fPwd.resetBtn"                 = "RESET";
+"fPwd.loginBtn"                 = "LOGIN";
+
+// Register As Employee
+
+"register.title.emp"            = "Register As Employee";
+"register.title.retail"         = "Register As Retailer";
+"register.nextBtn"              = "NEXT";
+"register.backBtn"              = "BACK";
+"register.registerBtn"          = "REGISTER";
+"register.tab1"                 = "Personal Info";
+"register.tab2"                 = "Contact Info";
+"register.tab3"                 = "Additional Info";
+"register.addYourPhoto"         = "Add your photo";
+"register.fName"                = "First Name";
+"register.lName"                = "Last Name";
+"register.eId"                  = "Emirates ID (Optional)";
+"register.address"              = "Address";
+"register.city"                 = "City";
+"register.mobile"               = "Mobile Number";
+"register.email"                = "Email";
+"register.cEmail"               = "Confirm Email";
+"register.barcode"              = "Barcode";
+"register.employeeId"           = "Employee ID";
+"register.department"           = "Department";
+"register.pLang"                = "Preferred Language";
+"register.password"             = "Password";
+"register.cPassword"            = "Confirm Password";
+"register.company"              = "Company";
+"register.branch"               = "Branch";
+"register.language.english"     = "English";
+"register.language.arabic"      = "Arabic";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Cancel" = "Cancel";
+"registrationError.profilePicture" = "Select profile image";
+"Please select"                 = "Please select ";
+
+// Home
+
+"homeDeals.locationNotFound.msg"    = "Location not found for selected deal!";
+"InvalidPhone_msg" = "Phone number not found for selected deal";
+"userNotLoggedIn.errorMsg" = "Please Login to your Esaad Account to access full features";
+"viewAll"   =   "View All";
+"home.newDeals" =   "New Deals";
+"home.featuredDeals"    =   "Featured Deals";
+"off" = "off";
+
+
+// Deal Details
+
+"dealDetail.share"  = "Connect With Company";
+"noPDF"             = "No PDF found.";
+
+// Filter
+
+"filter.search"             = "SEARCH";
+"filter.apply"              = "APPLY";
+"filter.title.search"       = "Search";
+"filter.title.filters"      = "Filter";
+"filter.category"           = "Category";
+"filter.rating"             = "Rating";
+"filter.discount"           = "Discount Percentage";
+"filter.country"            = "Country";
+"filter.city"               = "City";
+"filter.mall"               = "Mall";
+"filter.dealType"           = "Deal Type";
+"filter.company"            = "Company";
+"filter.keyword"            = "Keyword";
+"filter.nomall"             = "No malls found";
+"filter.nocompany"          = "No companies found";
+"filter.nocity"             = "No city found";
+"filter.nocountry"          = "No country found";
+"filter.nodealtype"         = "No deal type found";
+
+
+//"filter.discount"   = "Discount Percentage";
+//"filter.category"   = "Category";
+"filter.selectcountry"           = "Select Country";
+"filter.selectcity"              = "Select City";
+"filter.selectmall"              = "Select Mall";
+"filter.selectdealType"          = "Select Deal Type";
+"filter.selectcompany"           = "Select Company";
+"filter.selectcityfirst"         = "Please first select the city";
+"filter.selectcountryfirst"      = "Please first select the country";
+
+//Filter headerview
+
+"filter.displaying"              = "Displaying";
+"filter.in"                      = "in";
+"filter.for"                      = "for";
+"filter.deals"                   = "deals";
+
+
+// Post a Review
+"Post a Review"     = "Post a Review";
+"please add comment" = "Please add comment";
+"Review added successfully" = "Review added successfully";
+"dealRating.rate" = "Rate";
+"dealRating.submitBtn" = "SUBMIT FEEDBACK";
+"dealRating.comments" = "Comments";
+
+// Redeem
+"Redeem.title" = "Redeem";
+"Redeem.scanBarcode" = "Scan Barcode";
+"Redeem.originalAmount" = "Original Amount";
+"Redeem.amountPayable" = "Amount Payable";
+"Redeem.discount%" = "Discount %";
+"Redeem.employeeName" = "Employee Name: ";
+"Redeem.totalAmount" = "Total Amount: ";
+"Redeem.discount" = "Discount: ";
+"Redeem.netTotal" = "Net Total: ";
+"Redeem.redeemBtn" = "REDEEM";
+"Deal redeemed successfully" = "Deal redeemed successfully";
+"DealRedeem.BarcodeRequired.error" = "Please scan user barcode";
+"DealRedeem.TotalAmountRequired.error" = "Please enter total amount";
+
+// Deal Detail
+"dealDetail.tabTitle.firstTabTitle" = "Summary";
+"dealDetail.tabTitle.secondTabTitle" = "Location";
+"dealDetail.tabTitle.thirdTabTitle" = "User Reviews";
+"dealDetail.directionsBtnTitle" = "Direction >";
+"dealDetail.dealValues" = " Views";
+"dealDetail.presentEsaadCardMsg" = "Please present your Essad card to the outlet";
+
+// Inquiries
+"Inquiries.pageTitle"                   = "Inquiries";
+"Inquiries.SelectType"                  = "Select Type";
+"Inquiries.PleaseSelectType"            = "Please Select Type";
+"Inquiries.SelectCategory"              = "Select Category";
+"Inquiries.SelectDeals"                 = "Select Deal";
+"Inquiries.PleaseSelectCategoryFirst"   = "Please select Category first";
+"Inquiries.Success"                     = "Your request has been submitted";
+"Inquiries.NameIsRequired"              = "Name is Required";
+"Inquiries.MobileIsRequired"            = "Mobile is Required";
+"Inquiries.EmptyEmail"                  = "Email is Required";
+"Inquiries.EmailInValid"                = "Email is not valid";
+"Inquiries.SubjectRequired"             = "Subject is Required";
+"Inquiries.MessageRequired"             = "Message is Required";
+"Inquiry.name.placeholder"              = "Name";
+"Inquiry.email.placeholder"             = "Email";
+"Inquiry.mobile.placeholder"            = "Mobile";
+"Inquiry.subject.placeholder"           = "Subject";
+"Inquiry.message.placeholder"           = "Message";
+"Inquiry.submit"                        = "SUBMIT";
+
+// Profile
+"profile.phone"                         = "Phone Number";
+"profile.location"                      = "Location";
+"profile.email"                         = "Email";
+"profile.employeeid"                    = "Employee ID";
+"profile.preflanguage"                  = "Preferred Language";
+"profile.branch"                        = "Branch";
+"profile.invalidPhone.msg"              = "Phone Number should be like 9715xxxxxxxx";
+
+
+//Partner Facility
+
+"partner.description"                   = "Assigned to\ncompanies that\noffer discount\nfrom";
+"partner.gold"                          = "GOLD";
+"partner.silver"                        = "SILVER";
+"partner.partners"                      = "Partners";
+"partner.silverdiscount"                = "20 to 39%";
+"partner.golddiscount"                  = "40 to 80%";
+"partner.title"                         = "Partner Facilities";
+
+/*Settings*/
+"settings.title"                    = "Settings";
+"Password Updated Successfully"     = "Password Updated Successfully";
+"settings.language"                          = "Language";
+"settings.ChangePassword"                   = "Change Password";
+"Old Password"                      = "Old Password";
+"New Password"                      = "New Password";

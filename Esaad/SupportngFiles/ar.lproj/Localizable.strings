@@ -1,0 +1,602 @@
+/* (No Comment) */
+"© Esaad 2018. All Rights Reserved" = "© أسعاد  2019. جميع الحقوق محفوظة";
+
+/* (No Comment) */
+"About" = "عنا";
+
+/* (No Comment) */
+"About us" = "عن إسعاد";
+
+/* (No Comment) */
+"Alert" = "تنبية";
+
+/* (No Comment) */
+"All Deals" = "كل الصفقات";
+
+/* (No Comment) */
+"Already have an account? Login" = "هل لديك حساب؟ تسجيل الدخول";
+
+/* (No Comment) */
+"Apply" = "تطبيق";
+
+/* (No Comment) */
+"News" = "أخبار";
+
+/* (No Comment) */
+"Apply Filters" = "تطبيق التصفية";
+
+/* (No Comment) */
+"Arabic First Name" = "الاسم الأول بالعربية";
+
+/* (No Comment) */
+"Arabic Last Name" = "الاسم الاخير بالعربية";
+
+/* (No Comment) */
+"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+
+/* (No Comment) */
+"Assigned to companies that offer discount from" = "تم التعيين للشركات التي تقدم خصمًا من";
+
+/* (No Comment) */
+"barcodeFooterDetailsMessage" = "قم بمسح الباركود خلف بطاقة ESAAD الخاصة بك";
+
+/* (No Comment) */
+"barcodeInvalidErrorText" = "تم مسح البطاقة غير الصالحة ، الرجاء المسح  مرة أخرى";
+
+/* (No Comment) */
+"barcodeProcessingText" = "التحقق من صحة";
+
+/* Barcode */
+"barcodeTitle" = "مسح الباركود ";
+
+/* (No Comment) */
+"Branch" = "الفروع";
+
+/* (No Comment) */
+"Call Now" = "مكالمة";
+
+/* (No Comment) */
+"Camera" = "كاميرا";
+
+/* (No Comment) */
+"Cancel" = "  إلغاء";
+
+/* Home */
+"Categories" = "القطاع";
+
+/* (No Comment) */
+"Change Password" = "تغير كلمة المرور";
+
+/* (No Comment) */
+"City" = "مدينة";
+
+/* (No Comment) */
+"Comment" = "تعليق";
+
+/* (No Comment) */
+"Company" = "مؤسسة";
+
+/* (No Comment) */
+"Company Retail" = "مؤسسة  البيع بالتجزئة";
+
+/* (No Comment) */
+"Confirm New Password" = "تأكيد كلمة المرور";
+
+/* Review Registration */
+"confirmBtn" = "تاكيد";
+
+/* (No Comment) */
+"ContactUs.address.title" = "عنوان  المؤسسة";
+
+/* (No Comment) */
+"ContactUs.callCenter.title" = "مركز الاتصال";
+
+/* (No Comment) */
+"ContactUs.email.title" = "البريد الإلكتروني";
+
+/* (No Comment) */
+"ContactUs.fax.title" = "فاكس";
+
+/* (No Comment) */
+"ContactUs.phone.title" = "رقم الهاتف";
+
+/* (No Comment) */
+"ContactUs.poBox.title" = "صندوق بريد";
+
+/* Contact Us */
+"ContactUs.title" = "اتصل بنا";
+
+/* (No Comment) */
+"Continue As Guest" = "المتابعة كضيف";
+
+/* (No Comment) */
+"Old Password" = "كلمة المرور الحاليه";
+
+/* (No Comment) */
+"Deal redeemed successfully" = "تم الحصول على  الصفقة بنجاح";
+
+/* (No Comment) */
+"defaultEmptyMsg" = "Please select any other category.";
+
+/* (No Comment) */
+"Department" = "اداره";
+
+/* (No Comment) */
+"Discount Range" = "نطاق الخصم";
+
+/* (No Comment) */
+"Done" = "تم ";
+
+/* (No Comment) */
+"Off" = "إيقاف";
+
+/* (No Comment) */
+"Dashboard" = "لوحة القيادة";
+
+/* (No Comment) */
+"Partner facilities" = "مرافق الشريك";
+
+"20% to 39%" = "20٪ إلى 39٪";
+
+"40% to 80%" = "40 ٪ إلى 80 ٪";
+
+
+"Visitors" = "الزائرين";
+
+"Total Availed Deals" = "مجموع صفقات الملغية";
+
+"Total Savings" = "مجموع التوفير";
+/* (No Comment) */
+"Dont you have account? Register" = "لا يوجد لديك حساب؟ تسجيل";
+
+/* (No Comment) */
+"Edit" = "تعديل";
+
+/* (No Comment) */
+"Email" = "البريد الإلكتروني";
+
+/* (No Comment) */
+"Emp Id" = "الرقم الوظيفي";
+
+/* (No Comment) */
+"Employee" = "موظف";
+
+/* (No Comment) */
+"Employee barcode" = "الباركود الموظف";
+
+/* (No Comment) */
+"Employee barcode is required" = "مطلوب الباركود الموظف";
+
+/* (No Comment) */
+"Employee ID" = "معرف الموظف";
+
+/* (No Comment) */
+"Empty Email" = "إفراغ البريد الإلكتروني";
+
+/* (No Comment) */
+"Empty Password" = "كلمة المرور فارغة";
+
+/* (No Comment) */
+"End Date" = "تاريخ الانتهاء";
+
+/* (No Comment) */
+"Favorite Deals" = "صفقات مفضلة";
+
+/* (No Comment) */
+"Featured Deals" = "عروض مميزة";
+
+/* FeedBack */
+"Feedback Posted" = "ردود الفعل";
+
+/* (No Comment) */
+"Filter" = "تطبيق التصفية";
+
+/* (No Comment) */
+"filterEmptyMsg" = "Currently no deal mathces your criteria, Please change the filters and try again.";
+
+/* (No Comment) */
+"filterEmptyTitle" = "No Deal Matches The Criteria";
+
+/* (No Comment) */
+"First Name" = "الاسم الاول بالانجليزية";
+
+/* (No Comment) */
+"Forgot Password?" = "هل نسيت كلمة المرور؟";
+
+/* (No Comment) */
+"Gallery" = "حافظة الصور";
+
+/* (No Comment) */
+"Gold Partner" = "شريك ذهبي";
+
+/* (No Comment) */
+"guestLogoutText" = "دخول \\تسجيل";
+
+/* Guest */
+"guestTitleError" = "الرجاء تسجيل الدخول ";
+
+/* (No Comment) */
+"Home" = "الصفحة الرئيسية";
+
+/* SideBar */
+"Inquiries" = "التواصل ";
+
+/* (No Comment) */
+"Inquiries and feedback" = "استفسارات وملاحظات";
+
+/* (No Comment) */
+"Language" = "الغة";
+
+/* (No Comment) */
+"Last Name" = "الاسم الاخير بالانجليزية";
+
+/* SubCategory */
+"ListView" = "ListView";
+
+/* (No Comment) */
+"Location" = "الموقع ";
+
+/* (No Comment) */
+"Location Map" = "الموقع على الخريطة ";
+
+/* (No Comment) */
+"Login" = "التواصل";
+
+/* (No Comment) */
+"LOGIN" = "تسجيل دخول";
+
+/* (No Comment) */
+"login.invalidEmail" = "بريد إلكتروني خاطئ";
+
+/* (No Comment) */
+"Logout" = "الخروج";
+
+/* (No Comment) */
+"Look into Categories" = "انظر إلى القطاعات";
+
+/* (No Comment) */
+"MapView" = "عرض الخريطة";
+
+/* (No Comment) */
+"Message" = "رسالة";
+
+/* (No Comment) */
+"Mobile Number" = "رقم الهاتف المحمول";
+
+/* Profile */
+"Name" = "أسم المؤسسة";
+
+/* (No Comment) */
+"New Deals" = "عروض جديدة";
+
+/* WalkThrough */
+"New Deals everyday" = "صفقات جديدة كل يوم";
+
+/* (No Comment) */
+"New Password" = "كلمة المرور الجديدة";
+
+/* (No Comment) */
+"NEXT" = "التالى";
+
+/* (No Comment) */
+"No" = "لا";
+
+/* (No Comment) */
+"no branches found" = "لا توجد فروع";
+
+/* (No Comment) */
+"no categories found" = "لا توجد قطاعات";
+
+/* (No Comment) */
+"No Data Available" = "No Data Available";
+
+/* (No Comment) */
+"No Deals Found" = "لا توجد صفقات";
+
+/* (No Comment) */
+"no departments found" = "لا توجد اقسام";
+
+/* (No Comment) */
+"Off" = "إيقاف";
+
+/* (No Comment) */
+"Ok" = "حسنا";
+
+/* Detail */
+"Overview" = "نظرة عامة";
+
+/* (No Comment) */
+"Partner Facilities" = "مرافق الشريك";
+
+/* (No Comment) */
+"Password" = "كلمه المرور";
+
+/* (No Comment) */
+"Password Updated Successfully" = "تم تحديث كلمة المرور بنجاح";
+
+/* (No Comment) */
+"passwordPolicyError" = "كلمة المرور يجب أن تكون: \n \n * الحد الأدنى 8 أحرف. \n *  حرف واحد كبير على الأقل (من الألف إلى الياء).). \n *  على الأقل حرف واحد صغير (a-z).\n *  على الأقل رقم واحد (0 - 9). \n *  على الأقل حرف+C141 خاصة واحدة من @ $ .";
+
+/* (No Comment) */
+"Phone" = "رقم الهاتف";
+
+/* (No Comment) */
+"Phone Number" = "رقم الهاتف";
+
+/* (No Comment) */
+"please add comment" = "يرجى إضافة تعليق";
+
+/* No comment provided by engineer. */
+"Please complete your profile first" = "Please complete your profile first";
+
+/* (No Comment) */
+"Previous" = "السابق";
+
+/* Privacy policy */
+"PrivacyAndPolicy" = "سياسة الخصوصية ";
+
+/* (No Comment) */
+"Profile" = "الملف الشخصي";
+
+/* (No Comment) */
+"Profile Updated Successfully" = "تم تحديث الملف الشخصي بنجاح";
+
+/* (No Comment) */
+"Rate this Deal" = "قيّم هذه الصفقة";
+
+/* (No Comment) */
+"REGISTER" = "تسجيل";
+
+/* RegisterOption */
+"Register As Company" = "نوع المستخدم مؤسسة ";
+
+/* (No Comment) */
+"Register As User" = "تسجيل";
+
+/* Forgot */
+"RESET" = "إعادة تعيين";
+
+/* (No Comment) */
+"reviewRegistration.title" = "مراجعة التفاصيل";
+
+/* (No Comment) */
+"Save Settings" = "احفظ التغييرات";
+
+/* Filter */
+"Search" = "بحث";
+
+/* (No Comment) */
+"SELECT" = "أختيار ";
+
+/* (No Comment) */
+"Select Category" = "اختر القطاع";
+
+/* (No Comment) */
+"Select Company" = "اختر الموئسسة ";
+
+/* (No Comment) */
+"Select Deals" = "اختر الصفقات";
+
+/* (No Comment) */
+"Select Department" = "اختر القسم";
+
+/* (No Comment) */
+"Select Discount" = "حدد الخصم";
+
+/* (No Comment) */
+"Select profile image" = "أختيار صورة الملف الشخصي";
+
+
+
+/* (No Comment) */
+"Select Type" = "اختر النوع";
+
+/* (No Comment) */
+"Set Location" = "تحديد المكان";
+
+/* (No Comment) */
+"Setting" = "الإعدادات";
+
+/* Settings */
+"Settings" = "الإعدادات";
+
+/* Partners */
+"Silver Partner" = "الشريك الفضي";
+
+/* (No Comment) */
+"Skip" = "تخطى";
+
+/* (No Comment) */
+"Start Date" = "تاريخ البدء";
+
+/* (No Comment) */
+"Subject" = "الموضوع";
+
+/* Terms and conditions */
+"termsAndConditions" = "الشروط و الاحكام ";
+
+
+"No filter data selected" = "لم يتم تحديد بيانات مرشح";
+
+/* Localizable.strings
+  Esaad
+
+  Created by Faraz Haider on 28/08/2018.
+  Copyright © 2018 Faraz Haider. All rights reserved. */
+"TextToLocalize" = "itsLocalization";
+
+/* (No Comment) */
+"User Reviews" = "مراجعات المستخدم";
+
+/* Login */
+"UserName" = "اسم المستخدم";
+
+/* (No Comment) */
+"Version Information" = "معلومات الإصدار";
+
+/* (No Comment) */
+"View All" = "عرض الكل";
+
+/* (No Comment) */
+"WalkthroughFinish" = "إنهاء";
+
+/* (No Comment) */
+"WalkthroughNext" = "التالى";
+
+/* (No Comment) */
+"Yes" = "نعم ";
+
+/* (No Comment) */
+"Guest" = "زائر";
+
+/* (No Comment) */
+"Kindly provide " = "لطفا زود";
+
+/* (No Comment) */
+"can only contain alphabets" = "يمكن أن تحتوي فقط على الحروف الأبجدية";
+
+/* (No Comment) */
+"minimum length should be" = "يجب أن يكون الحد الأدنى للطول";
+
+/* (No Comment) */
+"maximum length should be" = "يجب أن يكون الحد الأقصى للطول";
+
+/* (No Comment) */
+"Enter a valid email e.g.(jhon@abc.com)" = "أدخل بريدًا إلكترونيًا صالحًا مثل (jhon@abc.com)";
+
+/* (No Comment) */
+"Mobile Number should be 9715xxxxxxxx" = "يجب أن يكون رقم الجوال ٩٧١٥xxxxxxxx";
+
+/* (No Comment) */
+"Kindly provide valid mobile number" = "يرجى تقديم رقم هاتف محمول صحيح";
+
+/* (No Comment) */
+"should contains at least one number and at least one alphabet character" = "يجب أن يحتوي على رقم واحد على الأقل وحرف أبجدي واحد على الأقل";
+
+/* (No Comment) */
+"should not contain white spaces" = "يجب ألا تحتوي على مسافات بيضاء";
+
+/* (No Comment) */
+"Unknown validation" = "التحقق غير معروف";
+
+/* (No Comment) */
+"Working Hours" = "ساعات العمل";
+"From:" = "من عند: ";
+"To:" = "إلى: ";
+"Till:" = "حتى: ";
+"After working Hours" = "بعد ساعات العمل";
+
+/* (No Comment) */
+"Change Password" = "غير كلمة السر";
+
+/* (No Comment) */
+"must not be empty" = "كلمة المرور وتأكيد كلمة المرور ليست هي نفسها";
+
+/* (No Comment) */
+"Password and confirm password are not same"= "كلمه المرور وتاكيد كلمه المرور ليست هي نفسها";
+
+/* (No Comment) */
+"Email matched and is valid" = "البريد الإلكتروني متطابق وصالح";
+
+/* (No Comment) */
+"Email and confirm email are not same"= "البريد الإلكتروني وتأكيد البريد الإلكتروني ليسا متشابهين";
+
+/* (No Comment) */
+"Kindly accept terms and conditions" = "يرجى قبول الشروط والأحكام";
+
+
+"favEmptyTitle" = "لا صفقة مفضلة بعد";
+"favEmptyMsg" = "انقر على رمز القلب على أي بطاقة وستجدها هنا في المرة القادمة التي تزور فيها هذه الصفحة";
+
+// No data msg
+"defaultEmptyTitle" = "لا صفقات بعد";
+
+//
+"Review added successfully" = "تمت إضافة المراجعة بنجاح";
+
+//
+"BUTTON_CLOSE"  = "أغلق";
+
+//
+"Empty Password" = "كلمة المرور فارغة";
+
+//
+"login.invalidEmail" = "كلمة مرور البريد الإلكتروني غير صالحة";
+
+//
+"Empty Email"  = "إفراغ البريد الإلكتروني";
+
+//
+"No data found" = "لاتوجد بيانات";
+
+//
+"Date Picker" = "منتقي التاريخ";
+
+//
+"AM" = " صباحا ";
+
+//
+"PM" = " مساء ";
+
+//
+"Please enter amount" = "يرجى إدخال المبلغ";
+
+"Name is Required" = "مطلوب اسم";
+"Subject is Required" = "الموضوع مطلوب";
+"Message is Required" = "الرسالة مطلوبة";
+
+//
+"Recent availed Deals" = "الصفقات التي تم الحصول عليها مؤخرا";
+"Our partners from government agencies" = "شركائنا من الوكالات الحكومية";
+"Password Send Successfully" = "تم إرسال البريد الكتروني بنجاح";
+"Branches" = "فروع";
+
+
+"Select City" = "اختر مدينة";
+"Select Country" = "حدد الدولة";
+"Select Mall" = "سيليكت مول";
+"All" = "الكل";
+
+"Please" = "رجاءً ";
+"Please Enter" = "الرجاء إدخال ";
+"Invalid Password" = "كلمه مرور غير صالحه";
+"Register Successfully" = "التسجيل بنجاح";
+"Preferred Language: " = "اللغة المفضلة:";
+"Preferred Language" = "اللغة المفضلة";
+"Your request has been submitted" = "تم تقديم طلبك";
+
+// Inquiry validation msgs
+"Email is not valid" = "البريد الكتروني غير صالح";
+"Email is Required" = "البريد الكتروني مطلوب";
+"The deal has expired" = "انتهت صلاحيه الصفقة";
+"Invalid message entered" = "تم إدخال رسالة غير صالحة";
+"Invalid name entered" = "اسم غير صحيح تم ادخاله";
+"Invalid subject entered" = "تم إدخال موضوع غير صالح";
+
+"0" = "٠";
+"Email already exist" = "البريد الالكتروني موجود بالفعل";
+
+"Select Deal Type" = "اختر نوع العرض";
+"Newest" = "احدث";
+"Nearest" = "اقرب";
+"Featured" = "متميز";
+
+"Current location could not be fetched" = "لا يمكن جلب الموقع الحالي";
+"Location Services disabled, Please enable Location Services in Settings" = "تم تعطيل خدمات الموقع ، يرجى تمكين خدمات الموقع في الإعدادات";
+"Settings" = "الإعدادات";
+
+"Please select city" = "يرجى اختيار المدينة";
+"Special Offer" = "عرض خاص";
+"Invalid Email or Password" = "البريد الإلكتروني أو كلمة السر خاطئة";
+"Old password and confirm old password are not same" = "كلمة المرور القديمة وتأكيد كلمة المرور القديمة ليست هي نفسها";
+"New password and confirm new password are not same" = "كلمة المرور الجديدة وتأكيد كلمة المرور الجديدة ليست متماثلة";
+
+"New password and Old password can not be same" = "كلمة المرور الجديدة وكلمة المرور القديمة لا يمكن أن تكون هي نفسها";
+"Notification Services disabled, Please enable in Settings" = "Notification Services disabled, Please enable in Settings";
+
+
+
+
+
+"dealDetail.directionsBtnTitle" = "Direction AR >";
+"dealDetail.dealValues" = " Views AR";

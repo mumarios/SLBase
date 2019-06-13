@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseURL</key>
+	<string>http://10.100.101.248:9080/esaadmobilenew/v1/mob/</string>
+	<key>authBaseURL</key>
+	<string>http://10.100.101.248:9080/esaadmobilenew/</string>
+</dict>
+</plist>
